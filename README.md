@@ -203,3 +203,12 @@ Tips to avoid blocks:
 ## 📄 License
 
 MIT License — free for personal and commercial use.
+
+## Some app interface images
+
+<img width="1251" height="802" alt="image" src="https://github.com/user-attachments/assets/b6d5ffda-1e40-4e3c-96e1-6d8e1396ae57" />
+
+
+<img width="1265" height="820" alt="image" src="https://github.com/user-attachments/assets/51616a1b-b640-43ad-bef2-f087ea4faed5" />
+
+<img width="891" height="665" alt="image" src="https://github.com/user-attachments/assets/8139c86d-1c2c-412c-b5f6-ae67fbf18a58" />
